@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Feed Animals</title>
+    <title>Play</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -25,7 +25,7 @@
 <body>
 
 <div class="container">
-    <h1>Bon courage !</h1>
+    <h1>Deck of Cards</h1>
 </div>
 
 <!-- Bootstrap core JavaScript -->
